@@ -9,11 +9,11 @@ return array(
 		'DB_PREFIX'=>'sns_',
 		'DB_CHARSET'=>'utf8',
 		//URL重写
-		'URL_MODEL'=>'2',
+		//'URL_MODEL'=>'2',
 		//URL访问不区分大小写
-		'URL_CASE_INSENSITIVE' =>true,
+		//'URL_CASE_INSENSITIVE' =>true,
 		
-		'URL_HTML_SUFFIX'=>'html',
+		//'URL_HTML_SUFFIX'=>'html',
 		//'URL_PATHINFO_DEPR'	=>	'-',
 		
 		//邮件配置
