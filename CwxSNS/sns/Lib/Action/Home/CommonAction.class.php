@@ -4,6 +4,10 @@
 		function _initialize(){
 			//设置页面的编码方式
 			header('Content-Type:text/html;charset=utf-8');
+			
+			if(!isset($_SESSION['user'])){
+				$this->redirect('Public/login');
+			}
 		}
 	}
 ?>

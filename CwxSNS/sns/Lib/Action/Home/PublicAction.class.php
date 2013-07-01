@@ -1,11 +1,48 @@
 <?php
 class PublicAction extends Action{
 	public function register(){
+		
 		$this->display();
 	}
 	
 	public function insertUser(){
-		
+		//dump($_POST);
+		$user=new UsersModel();
+		if($data=$user->create()){
+			if(!false==$user->add()){
+				$this->assign('jumpUrl',__URL__.'/login');
+				$this->success('注册成功，前去登录！');
+			}else{
+				$this->error('注册失败，请稍后再试！'.$user->getError());
+			}
+		}else{
+			$this->error('用户信息填写错误！');
+		}
+	}
+	
+	
+	public function login(){
+		$this->display();
+	}
+	
+	public function checkLogin(){
+		if(!empty($_POST)){
+			$email=$_POST['email'];
+			$pwd=$_POST['pwd'];
+						
+			$user=new UsersModel();
+			$data=$user->where("email='$email'")->find();			
+			
+			if($data['pwd']==md5($pwd)){
+				session(array('name'=>'user','expire'=>'3600'));
+				session('user',$data);
+				$this->assign('jumpUrl',__APP__.'/Index/index');
+				$this->success('登录成功！');
+				//$this->redirect('Index/index');
+			}else{
+				$this->error('用户名或密码错误！');
+			}
+		}
 	}
 	
 	/* function upFile(){
