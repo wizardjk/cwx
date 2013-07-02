@@ -1,0 +1,116 @@
+﻿.top
+{
+    background: url(../images/TopBack.jpg) repeat-x 0 0;
+    height: 49px;
+    width: 100%;
+}
+.content
+{
+    background: url(../images/LoginBack.jpg) repeat-x center 0;
+    height: 100%;
+    width: 100%;
+}
+.top_content
+{
+    width: 1003px;
+    margin: 0 auto;
+}
+.top_content_map
+{
+    width: 1060px;
+}
+.content_content
+{
+    width: 1003px;
+    margin: 0 auto;
+}
+.content_Map
+{
+    background: url(../images/MapBack.jpg) repeat-x center 0;
+}
+
+.InputLogin
+{
+    width: 262px;
+    height: 42px;
+    background: #fff;
+    border: 1px solid #666;
+    font-size: 24px;
+    color: #666;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.loPageBtn
+{
+    width: 134px;
+    height: 51px;
+    border: none;
+    cursor: pointer;
+    text-indent: -9999px;
+    margin-left: 10px;
+}
+.loPageBtn:hover
+{
+    filter: alpha(opacity=80);
+    -moz-opacity: 0.8;
+    -khtml-opacity: 0.8;
+    opacity: 0.8;
+}
+.loPageBtn:active
+{
+    filter: alpha(opacity=90);
+    -moz-opacity: 0.9;
+    -khtml-opacity: 0.9;
+    opacity: 0.9;
+}
+.submitBtn
+{
+    background: url(../images/submit.png) no-repeat 0 0;
+}
+.loginBtn
+{
+    background: url(../images/Login.png) no-repeat 0 0;
+}
+.content_content ul li
+{
+    line-height: 68px;
+    vertical-align: middle;
+    color: #fff;
+}
+.content_content ul
+{
+    padding-left:476px;
+    padding-top: 247px;
+}
+.bottom
+{
+    margin: 0 auto;
+    width: 1003px;
+    color: #fff;
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom:100px;
+}
+.userInfo
+{
+    float: right;
+}
+.userInfo ul
+{
+    margin-top: 5px;
+    margin-right: 50px;
+}
+.userInfo ul li
+{
+    line-height: 24px;
+    font-size: 14px;
+    vertical-align: middle;
+    height: 20px;
+}
+.userControl
+{
+    float: right;
+    background: url(../images/userControlBack.jpg) 0 0 no-repeat;
+    width: 98px;
+    height: 24px;
+}
