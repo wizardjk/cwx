@@ -1,0 +1,1157 @@
+[ 2013-07-06T17:55:42+08:00 ] 127.0.0.1 /github/cwx/cwxsns/index.php/Public/login
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.075306s ]
+INFO: [ route_check ] --END-- [ RunTime:0.075451s ]
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #1 is not an array E:\phpdev\Github\cwx\CwxSNS\sns\Conf\Home\config.php 第 6 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001466s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001608s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.088478s ]
+INFO: [ view_template ] --END-- [ RunTime:0.088657s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.385458s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.385648s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.083159s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.022957s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.106201s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.084786s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.297628s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.055010s ]
+INFO: [ view_end ] --END-- [ RunTime:0.055146s ]
+
+[ 2013-07-06T17:57:04+08:00 ] 127.0.0.1 /github/cwx/cwxsns/index.php/Public/checkLogin
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000988s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001133s ]
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #1 is not an array E:\phpdev\Github\cwx\CwxSNS\sns\Conf\Home\config.php 第 6 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000626s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000702s ]
+SQL: SHOW COLUMNS FROM `sns_users` [ RunTime:0.363229s ]
+SQL: SELECT * FROM `sns_users` WHERE ( email='xindachao@126.com' ) LIMIT 1   [ RunTime:0.231587s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\phpdev\Github\cwx\CwxSNS\ThinkPHP\Common\functions.php 第 552 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001124s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001258s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.096910s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.097099s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000871s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000690s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000488s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000828s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003179s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001365s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001511s ]
+
+[ 2013-07-06T17:57:04+08:00 ] 127.0.0.1 /github/cwx/cwxsns/index.php/Public/checkLogin
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001445s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001589s ]
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #1 is not an array E:\phpdev\Github\cwx\CwxSNS\sns\Conf\Home\config.php 第 6 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000472s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000515s ]
+SQL: SHOW COLUMNS FROM `sns_users` [ RunTime:0.003881s ]
+SQL: SELECT * FROM `sns_users` WHERE ( email='xindachao@126.com' ) LIMIT 1   [ RunTime:0.000669s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\phpdev\Github\cwx\CwxSNS\ThinkPHP\Common\functions.php 第 552 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000934s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001025s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.015821s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015932s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000481s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000482s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000423s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000480s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002080s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000521s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000562s ]
+
+[ 2013-07-06T17:57:04+08:00 ] 127.0.0.1 /github/cwx/cwxsns/index.php/Public/login
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.002255s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002442s ]
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #1 is not an array E:\phpdev\Github\cwx\CwxSNS\sns\Conf\Home\config.php 第 6 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000796s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000878s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000666s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000847s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.011322s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011388s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000380s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000360s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000250s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000373s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001481s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000475s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000513s ]
+
+[ 2013-07-06T17:57:04+08:00 ] 127.0.0.1 /github/cwx/cwxsns/index.php/Public/login
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000949s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001032s ]
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #1 is not an array E:\phpdev\Github\cwx\CwxSNS\sns\Conf\Home\config.php 第 6 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000576s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000630s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000602s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000660s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.010015s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010077s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000360s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000340s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000262s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000399s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001476s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000504s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000544s ]
+
+[ 2013-07-06T17:57:10+08:00 ] 127.0.0.1 /github/cwx/cwxsns/index.php/Public/checkLogin
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000878s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000957s ]
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #1 is not an array E:\phpdev\Github\cwx\CwxSNS\sns\Conf\Home\config.php 第 6 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000532s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000587s ]
+SQL: SHOW COLUMNS FROM `sns_users` [ RunTime:0.004371s ]
+SQL: SELECT * FROM `sns_users` WHERE ( email='xindachao@126.com' ) LIMIT 1   [ RunTime:0.000699s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\phpdev\Github\cwx\CwxSNS\ThinkPHP\Common\functions.php 第 552 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001259s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001389s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.012766s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012874s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000346s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000350s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000269s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000371s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001469s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000502s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000541s ]
+
+[ 2013-07-06T17:57:11+08:00 ] 127.0.0.1 /github/cwx/cwxsns/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.002090s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002331s ]
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #1 is not an array E:\phpdev\Github\cwx\CwxSNS\sns\Conf\Home\config.php 第 6 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001081s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001261s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001930s ]
+INFO: [ view_template ] --END-- [ RunTime:0.002180s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.023276s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023411s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000393s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000415s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000225s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000416s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001604s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000517s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000581s ]
+
+[ 2013-07-06T17:57:11+08:00 ] ERR: (ThinkException) 非法操作:close
+[ 2013-07-06T17:57:11+08:00 ] ERR: (ThinkException) 非法操作:close
+[ 2013-07-06T17:57:13+08:00 ] ERR: (ThinkException) 非法操作:liuchizhen
+[ 2013-07-06T18:19:04+08:00 ] 127.0.0.1 /github/cwx/cwxsns/index.php/Public/login
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000713s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000791s ]
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #1 is not an array E:\phpdev\Github\cwx\CwxSNS\sns\Conf\Home\config.php 第 6 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000470s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000523s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000740s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000798s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.007096s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007172s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000454s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000416s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000314s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000485s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001813s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000627s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000678s ]
+
+[ 2013-07-06T18:19:22+08:00 ] 127.0.0.1 /github/cwx/cwxsns/index.php/Public/checkLogin
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000744s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000810s ]
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #1 is not an array E:\phpdev\Github\cwx\CwxSNS\sns\Conf\Home\config.php 第 6 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000436s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000481s ]
+SQL: SHOW COLUMNS FROM `sns_users` [ RunTime:0.015648s ]
+SQL: SELECT * FROM `sns_users` WHERE ( email='xindachao@126.com' ) LIMIT 1   [ RunTime:0.000609s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\phpdev\Github\cwx\CwxSNS\ThinkPHP\Common\functions.php 第 552 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000778s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000841s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.011708s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011824s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000437s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000449s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000294s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000794s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002133s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000563s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000631s ]
+
+[ 2013-07-06T18:19:23+08:00 ] 127.0.0.1 /github/cwx/cwxsns/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000828s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000923s ]
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #1 is not an array E:\phpdev\Github\cwx\CwxSNS\sns\Conf\Home\config.php 第 6 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000422s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000470s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000628s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000694s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.006632s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006697s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000281s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000256s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000176s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000331s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001151s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000422s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000468s ]
+
+[ 2013-07-06T18:19:23+08:00 ] ERR: (ThinkException) 非法操作:close
+[ 2013-07-06T18:19:26+08:00 ] ERR: (ThinkException) 非法操作:zhangmeiyu
+[ 2013-07-06T18:19:30+08:00 ] ERR: (ThinkException) 非法操作:tzzwdx
+[ 2013-07-06T18:30:34+08:00 ] 127.0.0.1 /github/cwx/cwxsns/index.php/Public/register
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001968s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002195s ]
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #1 is not an array E:\phpdev\Github\cwx\CwxSNS\sns\Conf\Home\config.php 第 6 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001849s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002023s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001609s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001769s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.065108s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.065266s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000872s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000838s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000647s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000967s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003623s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001544s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001655s ]
+
+[ 2013-07-06T18:31:22+08:00 ] 127.0.0.1 /github/cwx/cwxsns/index.php/Public/insertUser
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001841s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001997s ]
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #1 is not an array E:\phpdev\Github\cwx\CwxSNS\sns\Conf\Home\config.php 第 6 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001200s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001357s ]
+SQL: SHOW COLUMNS FROM `sns_users` [ RunTime:0.006141s ]
+SQL: SELECT * FROM `sns_users` WHERE ( `email` = 'wizardjk@163.com' ) LIMIT 1   [ RunTime:0.000715s ]
+SQL: INSERT INTO `sns_users` (`name`,`gender`,`email`,`pwd`,`location`,`lng`,`lat`,`web_site`,`reg_time`,`avatar`) VALUES ('王建宽',0,'wizardjk@163.com','202cb962ac59075b964b07152d234b70','河北省保定市华电路689号','114.000','38.123','','2013-07-06 18:31:22','./Public/uploads/users/male.jpg') [ RunTime:0.088957s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001248s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001365s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.027570s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027752s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000823s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000818s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000642s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.001059s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003636s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001931s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002088s ]
+
+[ 2013-07-06T18:31:23+08:00 ] 127.0.0.1 /github/cwx/cwxsns/index.php/Public/login
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000615s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000694s ]
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #1 is not an array E:\phpdev\Github\cwx\CwxSNS\sns\Conf\Home\config.php 第 6 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000429s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000485s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.002141s ]
+INFO: [ view_template ] --END-- [ RunTime:0.002375s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.006322s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006424s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000305s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000271s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000192s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000332s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001215s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000433s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000473s ]
+
+[ 2013-07-06T18:31:33+08:00 ] 127.0.0.1 /github/cwx/cwxsns/index.php/Public/checkLogin
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001870s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002036s ]
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #1 is not an array E:\phpdev\Github\cwx\CwxSNS\sns\Conf\Home\config.php 第 6 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001376s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001529s ]
+SQL: SHOW COLUMNS FROM `sns_users` [ RunTime:0.002330s ]
+SQL: SELECT * FROM `sns_users` WHERE ( email='wizardjk@163.com' ) LIMIT 1   [ RunTime:0.000343s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\phpdev\Github\cwx\CwxSNS\ThinkPHP\Common\functions.php 第 552 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000501s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000546s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.010502s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010593s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000324s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000468s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000374s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000480s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001787s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000624s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000675s ]
+
+[ 2013-07-06T18:31:34+08:00 ] 127.0.0.1 /github/cwx/cwxsns/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001159s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001362s ]
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #1 is not an array E:\phpdev\Github\cwx\CwxSNS\sns\Conf\Home\config.php 第 6 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000635s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000697s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000788s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000856s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.010449s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010550s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000448s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000408s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000270s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000479s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001778s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000646s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000706s ]
+
+[ 2013-07-06T18:31:35+08:00 ] ERR: (ThinkException) 非法操作:close
+[ 2013-07-06T18:31:35+08:00 ] ERR: (ThinkException) 非法操作:close
+[ 2013-07-06T18:31:35+08:00 ] ERR: (ThinkException) 非法操作:liuchizhen
+[ 2013-07-06T18:31:36+08:00 ] ERR: (ThinkException) 非法操作:ludeliang
+[ 2013-07-06T18:31:46+08:00 ] ERR: (ThinkException) 非法操作:wangjianming
+[ 2013-07-06T18:35:28+08:00 ] 127.0.0.1 /github/cwx/cwxsns/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000951s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001041s ]
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #1 is not an array E:\phpdev\Github\cwx\CwxSNS\sns\Conf\Home\config.php 第 6 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000583s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000649s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000699s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000760s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.007311s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007385s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000434s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000428s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000333s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000512s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001853s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000633s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000684s ]
+
+[ 2013-07-06T23:05:07+08:00 ] 127.0.0.1 /github/cwx/cwxsns/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001813s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001982s ]
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #1 is not an array E:\phpdev\Github\cwx\CwxSNS\sns\Conf\Home\config.php 第 6 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001395s ]
+SQL: SHOW COLUMNS FROM `sns_users` [ RunTime:0.002558s ]
+SQL: SELECT * FROM `sns_users` WHERE ( `id` = 2 ) LIMIT 1   [ RunTime:0.019707s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000771s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000829s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 10 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 11 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 12 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 13 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 14 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 15 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 16 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 17 行.
+INFO: Run ParseTemplate Behavior [ RunTime:0.006267s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006317s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000346s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000358s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000266s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000395s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001490s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000518s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000572s ]
+
+[ 2013-07-06T23:05:09+08:00 ] 127.0.0.1 /github/cwx/cwxsns/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001587s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001739s ]
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #1 is not an array E:\phpdev\Github\cwx\CwxSNS\sns\Conf\Home\config.php 第 6 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000969s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001075s ]
+SQL: SHOW COLUMNS FROM `sns_users` [ RunTime:0.004405s ]
+SQL: SELECT * FROM `sns_users` WHERE ( `id` = 2 ) LIMIT 1   [ RunTime:0.000438s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000577s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000649s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 10 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 11 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 12 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 13 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 14 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 15 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 16 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 17 行.
+INFO: Run ParseTemplate Behavior [ RunTime:0.008627s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008698s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000404s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000409s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000297s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000490s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001776s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000664s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000727s ]
+
+[ 2013-07-06T23:05:10+08:00 ] 127.0.0.1 /github/cwx/cwxsns/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001492s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001649s ]
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #1 is not an array E:\phpdev\Github\cwx\CwxSNS\sns\Conf\Home\config.php 第 6 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001395s ]
+SQL: SHOW COLUMNS FROM `sns_users` [ RunTime:0.003995s ]
+SQL: SELECT * FROM `sns_users` WHERE ( `id` = 2 ) LIMIT 1   [ RunTime:0.000372s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000523s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000589s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 10 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 11 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 12 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 13 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 14 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 15 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 16 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 17 行.
+INFO: Run ParseTemplate Behavior [ RunTime:0.007557s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007619s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000356s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000375s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000270s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000461s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001629s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000757s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000824s ]
+
+[ 2013-07-06T23:05:10+08:00 ] 127.0.0.1 /github/cwx/cwxsns/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001684s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001844s ]
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #1 is not an array E:\phpdev\Github\cwx\CwxSNS\sns\Conf\Home\config.php 第 6 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000510s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000569s ]
+SQL: SHOW COLUMNS FROM `sns_users` [ RunTime:0.002906s ]
+SQL: SELECT * FROM `sns_users` WHERE ( `id` = 2 ) LIMIT 1   [ RunTime:0.000357s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000478s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000540s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 10 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 11 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 12 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 13 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 14 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 15 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 16 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 17 行.
+INFO: Run ParseTemplate Behavior [ RunTime:0.007011s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007069s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000338s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000344s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000239s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000404s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001472s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000568s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000626s ]
+
+[ 2013-07-06T23:05:11+08:00 ] 127.0.0.1 /github/cwx/cwxsns/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001702s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001929s ]
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #1 is not an array E:\phpdev\Github\cwx\CwxSNS\sns\Conf\Home\config.php 第 6 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001127s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001259s ]
+SQL: SHOW COLUMNS FROM `sns_users` [ RunTime:0.002861s ]
+SQL: SELECT * FROM `sns_users` WHERE ( `id` = 2 ) LIMIT 1   [ RunTime:0.000356s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000455s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000510s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 10 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 11 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 12 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 13 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 14 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 15 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 16 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 17 行.
+INFO: Run ParseTemplate Behavior [ RunTime:0.006509s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006564s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000483s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000342s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000234s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000384s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001603s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000523s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000571s ]
+
+[ 2013-07-06T23:05:11+08:00 ] 127.0.0.1 /github/cwx/cwxsns/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001709s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001864s ]
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #1 is not an array E:\phpdev\Github\cwx\CwxSNS\sns\Conf\Home\config.php 第 6 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000968s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001076s ]
+SQL: SHOW COLUMNS FROM `sns_users` [ RunTime:0.003224s ]
+SQL: SELECT * FROM `sns_users` WHERE ( `id` = 2 ) LIMIT 1   [ RunTime:0.000481s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000630s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000701s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 10 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 11 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 12 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 13 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 14 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 15 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 16 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 17 行.
+INFO: Run ParseTemplate Behavior [ RunTime:0.005951s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000252s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000254s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000176s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000321s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001131s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000409s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000447s ]
+
+[ 2013-07-06T23:05:11+08:00 ] 127.0.0.1 /github/cwx/cwxsns/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001230s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001384s ]
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #1 is not an array E:\phpdev\Github\cwx\CwxSNS\sns\Conf\Home\config.php 第 6 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000596s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000666s ]
+SQL: SHOW COLUMNS FROM `sns_users` [ RunTime:0.003250s ]
+SQL: SELECT * FROM `sns_users` WHERE ( `id` = 2 ) LIMIT 1   [ RunTime:0.000397s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000521s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000589s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 10 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 11 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 12 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 13 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 14 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 15 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 16 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 17 行.
+INFO: Run ParseTemplate Behavior [ RunTime:0.006441s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006494s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000299s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000382s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000315s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000393s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001534s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000508s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000556s ]
+
+[ 2013-07-06T23:05:12+08:00 ] 127.0.0.1 /github/cwx/cwxsns/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000849s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000953s ]
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #1 is not an array E:\phpdev\Github\cwx\CwxSNS\sns\Conf\Home\config.php 第 6 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000557s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000647s ]
+SQL: SHOW COLUMNS FROM `sns_users` [ RunTime:0.002423s ]
+SQL: SELECT * FROM `sns_users` WHERE ( `id` = 2 ) LIMIT 1   [ RunTime:0.000450s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000445s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000501s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 10 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 11 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 12 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 13 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 14 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 15 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 16 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 17 行.
+INFO: Run ParseTemplate Behavior [ RunTime:0.007348s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007425s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000506s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000420s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000255s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000533s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001975s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000700s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000776s ]
+
+[ 2013-07-06T23:05:12+08:00 ] 127.0.0.1 /github/cwx/cwxsns/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000976s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001098s ]
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #1 is not an array E:\phpdev\Github\cwx\CwxSNS\sns\Conf\Home\config.php 第 6 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000671s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000755s ]
+SQL: SHOW COLUMNS FROM `sns_users` [ RunTime:0.003250s ]
+SQL: SELECT * FROM `sns_users` WHERE ( `id` = 2 ) LIMIT 1   [ RunTime:0.000388s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000522s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000591s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 10 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 11 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 12 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 13 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 14 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 15 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 16 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 17 行.
+INFO: Run ParseTemplate Behavior [ RunTime:0.007754s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007821s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000390s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000395s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000283s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000463s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001706s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000636s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000683s ]
+
+[ 2013-07-06T23:05:42+08:00 ] 127.0.0.1 /github/cwx/cwxsns/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001810s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001968s ]
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #1 is not an array E:\phpdev\Github\cwx\CwxSNS\sns\Conf\Home\config.php 第 6 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001108s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001217s ]
+SQL: SHOW COLUMNS FROM `sns_users` [ RunTime:0.002513s ]
+SQL: SELECT * FROM `sns_users` WHERE ( `id` = 2 ) LIMIT 1   [ RunTime:0.000465s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000960s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001048s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 10 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 11 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 12 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 13 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 14 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 15 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 16 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 17 行.
+INFO: Run ParseTemplate Behavior [ RunTime:0.006568s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006622s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000382s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000346s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000264s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000394s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001515s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000507s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000546s ]
+
+[ 2013-07-06T23:05:43+08:00 ] 127.0.0.1 /github/cwx/cwxsns/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001433s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001587s ]
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #1 is not an array E:\phpdev\Github\cwx\CwxSNS\sns\Conf\Home\config.php 第 6 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001100s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001235s ]
+SQL: SHOW COLUMNS FROM `sns_users` [ RunTime:0.002737s ]
+SQL: SELECT * FROM `sns_users` WHERE ( `id` = 2 ) LIMIT 1   [ RunTime:0.000336s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000575s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000644s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 10 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 11 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 12 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 13 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 14 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 15 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 16 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 17 行.
+INFO: Run ParseTemplate Behavior [ RunTime:0.006743s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006802s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000325s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000326s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000230s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000406s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001426s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000523s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000572s ]
+
+[ 2013-07-06T23:06:07+08:00 ] 127.0.0.1 /github/cwx/cwxsns/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001328s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001442s ]
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #1 is not an array E:\phpdev\Github\cwx\CwxSNS\sns\Conf\Home\config.php 第 6 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000665s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000740s ]
+SQL: SHOW COLUMNS FROM `sns_users` [ RunTime:0.003637s ]
+SQL: SELECT * FROM `sns_users` WHERE ( `id` = 2 ) LIMIT 1   [ RunTime:0.000396s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000859s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000918s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 10 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 11 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 12 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 13 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 14 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 15 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 16 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 17 行.
+INFO: Run ParseTemplate Behavior [ RunTime:0.007618s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007676s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000452s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000415s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000466s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000585s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002097s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000537s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000592s ]
+
+[ 2013-07-06T23:06:08+08:00 ] 127.0.0.1 /github/cwx/cwxsns/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001439s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001590s ]
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #1 is not an array E:\phpdev\Github\cwx\CwxSNS\sns\Conf\Home\config.php 第 6 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000962s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001072s ]
+SQL: SHOW COLUMNS FROM `sns_users` [ RunTime:0.002305s ]
+SQL: SELECT * FROM `sns_users` WHERE ( `id` = 2 ) LIMIT 1   [ RunTime:0.000379s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000411s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000461s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 10 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 11 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 12 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 13 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 14 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 15 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 16 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 17 行.
+INFO: Run ParseTemplate Behavior [ RunTime:0.005747s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005795s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000259s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000281s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000190s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000326s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001172s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000442s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000482s ]
+
+[ 2013-07-06T23:06:09+08:00 ] 127.0.0.1 /github/cwx/cwxsns/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000778s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000893s ]
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #1 is not an array E:\phpdev\Github\cwx\CwxSNS\sns\Conf\Home\config.php 第 6 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000592s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000670s ]
+SQL: SHOW COLUMNS FROM `sns_users` [ RunTime:0.003088s ]
+SQL: SELECT * FROM `sns_users` WHERE ( `id` = 2 ) LIMIT 1   [ RunTime:0.000377s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000633s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000721s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 10 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 11 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 12 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 13 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 14 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 15 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 16 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 17 行.
+INFO: Run ParseTemplate Behavior [ RunTime:0.007156s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007216s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000336s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000353s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000277s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000436s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001566s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000523s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000567s ]
+
+[ 2013-07-06T23:06:09+08:00 ] 127.0.0.1 /github/cwx/cwxsns/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000803s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000894s ]
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #1 is not an array E:\phpdev\Github\cwx\CwxSNS\sns\Conf\Home\config.php 第 6 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000524s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000584s ]
+SQL: SHOW COLUMNS FROM `sns_users` [ RunTime:0.003029s ]
+SQL: SELECT * FROM `sns_users` WHERE ( `id` = 2 ) LIMIT 1   [ RunTime:0.000368s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000500s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000566s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 10 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 11 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 12 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 13 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 14 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 15 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 16 行.
+NOTIC: [8] Undefined variable: user E:\phpdev\Github\cwx\CwxSNS\sns\Runtime\Cache\Home\6d74c2e80581904cc9064bfd7fa3da74.php 第 17 行.
+INFO: Run ParseTemplate Behavior [ RunTime:0.007201s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007261s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000341s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000457s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000396s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000615s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002008s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000928s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001026s ]
+
+[ 2013-07-06T23:06:35+08:00 ] 127.0.0.1 /github/cwx/cwxsns/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001452s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001606s ]
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #1 is not an array E:\phpdev\Github\cwx\CwxSNS\sns\Conf\Home\config.php 第 6 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001004s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001120s ]
+SQL: SHOW COLUMNS FROM `sns_users` [ RunTime:0.004026s ]
+SQL: SELECT * FROM `sns_users` WHERE ( `id` = 2 ) LIMIT 1   [ RunTime:0.000594s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000678s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000757s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.007761s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007869s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000372s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000372s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000261s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000444s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001611s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000608s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000665s ]
+
+[ 2013-07-06T23:06:36+08:00 ] 127.0.0.1 /github/cwx/cwxsns/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000577s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000640s ]
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #1 is not an array E:\phpdev\Github\cwx\CwxSNS\sns\Conf\Home\config.php 第 6 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000510s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000567s ]
+SQL: SHOW COLUMNS FROM `sns_users` [ RunTime:0.002546s ]
+SQL: SELECT * FROM `sns_users` WHERE ( `id` = 2 ) LIMIT 1   [ RunTime:0.000298s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000398s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000445s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.005780s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005915s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000323s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000336s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000309s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000403s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001511s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000451s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000491s ]
+
+[ 2013-07-06T23:07:34+08:00 ] 127.0.0.1 /github/cwx/cwxsns/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001653s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001897s ]
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #1 is not an array E:\phpdev\Github\cwx\CwxSNS\sns\Conf\Home\config.php 第 6 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001156s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001329s ]
+SQL: SHOW COLUMNS FROM `sns_users` [ RunTime:0.003565s ]
+SQL: SELECT * FROM `sns_users` WHERE ( `id` = 2 ) LIMIT 1   [ RunTime:0.000428s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000563s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000635s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.008633s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008748s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000387s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000391s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000273s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000465s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001688s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000630s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000689s ]
+
+[ 2013-07-06T23:07:35+08:00 ] 127.0.0.1 /github/cwx/cwxsns/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001427s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001577s ]
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #1 is not an array E:\phpdev\Github\cwx\CwxSNS\sns\Conf\Home\config.php 第 6 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001176s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001299s ]
+SQL: SHOW COLUMNS FROM `sns_users` [ RunTime:0.003227s ]
+SQL: SELECT * FROM `sns_users` WHERE ( `id` = 2 ) LIMIT 1   [ RunTime:0.000387s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000516s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000580s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.007326s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007431s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000358s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000388s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000262s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000445s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001618s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000597s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000653s ]
+
+[ 2013-07-06T23:08:07+08:00 ] 127.0.0.1 /github/cwx/cwxsns/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001287s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001393s ]
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #1 is not an array E:\phpdev\Github\cwx\CwxSNS\sns\Conf\Home\config.php 第 6 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000690s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000759s ]
+SQL: SHOW COLUMNS FROM `sns_users` [ RunTime:0.003657s ]
+SQL: SELECT * FROM `sns_users` WHERE ( `id` = 2 ) LIMIT 1   [ RunTime:0.000383s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000990s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001062s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.008442s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008548s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000470s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000481s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000367s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000559s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002067s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000779s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000840s ]
+
+[ 2013-07-06T23:08:07+08:00 ] 127.0.0.1 /github/cwx/cwxsns/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000946s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001071s ]
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #1 is not an array E:\phpdev\Github\cwx\CwxSNS\sns\Conf\Home\config.php 第 6 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000563s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000636s ]
+SQL: SHOW COLUMNS FROM `sns_users` [ RunTime:0.003095s ]
+SQL: SELECT * FROM `sns_users` WHERE ( `id` = 2 ) LIMIT 1   [ RunTime:0.000371s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000537s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000597s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.006615s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006712s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000336s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000383s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000241s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000422s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001546s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000548s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000599s ]
+
+[ 2013-07-06T23:08:08+08:00 ] 127.0.0.1 /github/cwx/cwxsns/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000766s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000851s ]
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #1 is not an array E:\phpdev\Github\cwx\CwxSNS\sns\Conf\Home\config.php 第 6 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000506s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000567s ]
+SQL: SHOW COLUMNS FROM `sns_users` [ RunTime:0.002866s ]
+SQL: SELECT * FROM `sns_users` WHERE ( `id` = 2 ) LIMIT 1   [ RunTime:0.000354s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000474s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000533s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.006622s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006719s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000326s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000350s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000238s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000442s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001528s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000633s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000694s ]
+
+[ 2013-07-06T23:08:08+08:00 ] 127.0.0.1 /github/cwx/cwxsns/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000750s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000832s ]
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #1 is not an array E:\phpdev\Github\cwx\CwxSNS\sns\Conf\Home\config.php 第 6 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000525s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000580s ]
+SQL: SHOW COLUMNS FROM `sns_users` [ RunTime:0.002827s ]
+SQL: SELECT * FROM `sns_users` WHERE ( `id` = 2 ) LIMIT 1   [ RunTime:0.000352s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000470s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000528s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.007053s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007155s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000336s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000340s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000233s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000391s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001443s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000533s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000583s ]
+
+[ 2013-07-06T23:08:09+08:00 ] 127.0.0.1 /github/cwx/cwxsns/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001445s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001595s ]
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #1 is not an array E:\phpdev\Github\cwx\CwxSNS\sns\Conf\Home\config.php 第 6 行.
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000941s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001048s ]
+SQL: SHOW COLUMNS FROM `sns_users` [ RunTime:0.003234s ]
+SQL: SELECT * FROM `sns_users` WHERE ( `id` = 2 ) LIMIT 1   [ RunTime:0.000386s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000515s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000579s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.007477s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007585s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000358s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000372s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000271s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000441s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001605s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000612s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000668s ]
+

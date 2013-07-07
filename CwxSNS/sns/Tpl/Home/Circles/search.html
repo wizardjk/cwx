@@ -1,0 +1,17 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<form method="get" action="__URL__/search"> 
+<div>请输入您查询的关键字：<input type="text" name="keyword" /><input type="submit" value="查找" /></div>
+</form>
+<table>
+	<volist name="circles" id="row" >
+	<tr><td>{$row['id']}</td><td>{$row['name']}</td><td>{$row['creator']}</td><td>{$row['create_time']}</td><td><a href="__URL__/apply/id/{$row['id']}">申请加入</a></td></tr>
+	</volist>
+</table>
+</body>
+</html>
